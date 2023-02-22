@@ -1,4 +1,4 @@
-# NoNpDrm Plugin by TheFloW
+# NoNpDrm Plugin Unofficial by LMAN(not me)
 
 ## Features
 - Exports PS Vita content license keys as fake licences.
